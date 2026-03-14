@@ -1105,7 +1105,7 @@ network_plot_filtered
 
 ![](README_files/figure-commonmark/unnamed-chunk-58-1.png)
 
-<img src="figures/network_plot_filtered.png" data-fig-align="center" />
+<img src="figures/r1.png" data-fig-align="center" />
 
 Figure 1. Network plot of significant correlations (\|r\| \> 0.7; p \<
 0.05) between agronomic traits and vegetation indices. Edge width
@@ -1239,7 +1239,7 @@ indexbarplot
 
 ![](README_files/figure-commonmark/unnamed-chunk-62-1.png)
 
-![](figures/indexbarplot.png)
+<img src="figures/r2.png" data-fig-align="center" />
 
 Figure 2. Barplot indicating an absolute Pearson correlation between
 vegetation indices and soybean TOL across environments, highlighting the

@@ -1105,7 +1105,7 @@ network_plot_filtered
 
 ![](README_files/figure-commonmark/unnamed-chunk-58-1.png)
 
-![](images/clipboard-546987592.png)
+<img src="figures/network_plot_filtered.png" data-fig-align="center" />
 
 Figure 1. Network plot of significant correlations (\|r\| \> 0.7; p \<
 0.05) between agronomic traits and vegetation indices. Edge width
@@ -1239,7 +1239,7 @@ indexbarplot
 
 ![](README_files/figure-commonmark/unnamed-chunk-62-1.png)
 
-![](images/clipboard-1816894115.png)
+![](figures/indexbarplot.png)
 
 Figure 2. Barplot indicating an absolute Pearson correlation between
 vegetation indices and soybean TOL across environments, highlighting the
@@ -1301,7 +1301,7 @@ pca
 
 ![](README_files/figure-commonmark/unnamed-chunk-64-1.png)
 
-![](images/clipboard-2884914.png)
+<img src="figures/r3.png" data-fig-align="center" />
 
 Figure 3. PCA biplot of soybean genotypes, TOL and the three top
 Vegetation Index.
@@ -1345,7 +1345,7 @@ regression
 
 ![](README_files/figure-commonmark/unnamed-chunk-65-1.png)
 
-![](images/clipboard-820719401.png)
+<img src="figures/r4.png" data-fig-align="center" />
 
 Figure 4. Relationship between soybean tolerance (TOL) and top
 Vegetation Index (BI, CIVE, NGRDI) across three environments. Solid

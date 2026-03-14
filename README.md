@@ -151,7 +151,7 @@ library(ggplot2)
 library(asreml)
 ```
 
-    Online License checked out Sat Mar 14 15:46:18 2026
+    Online License checked out Sat Mar 14 15:58:37 2026
 
 ``` r
 library(metan)

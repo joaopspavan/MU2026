@@ -38,7 +38,7 @@ Paulo)
 
 # **Introduction**
 
-![](images/clipboard-3226717664.png)
+<img src="figures/int.png" data-fig-align="center" />
 
 # Objective
 
@@ -75,9 +75,9 @@ Paulo)
 
 - WebODM: Build Orthomosaics
 
-![](images/clipboard-3685034479.png)
+<img src="figures/mm.png" data-fig-align="center" />
 
-![](images/clipboard-330311638.png)
+<img src="figures/mm1.png" data-fig-align="center" />
 
 - FieldImageR and FieldImageRExtra Packages: Create a grid (Shapefile),
   Segmentation (Plots) and Extract RGB VIs
@@ -147,12 +147,6 @@ library(dplyr)
 library(tidyr)
 library(reshape2)
 library(ggplot2)
-library(asreml)
-```
-
-    Online License checked out Sat Mar 14 16:06:17 2026
-
-``` r
 library(metan)
 library(ggspatial)
 library(ggplot2)
@@ -325,7 +319,7 @@ for(i in 6:nlyr(vi2_nocontrol2425)){
 gc()
 ```
 
-![](images/clipboard-2648508605.png)
+<img src="figures/vi2_nocontrol2425.png" data-fig-align="center" />
 
 **Segmentation of plants and soil using a Vegetation Index (VI) - AC
 (Anhumas, Piracicaba, SP) – insecticide control**
@@ -342,7 +336,7 @@ for(i in 5:nlyr(vi_control2425)){
 gc()
 ```
 
-![](images/clipboard-542746721.png)
+<img src="figures/vi_control2425.png" data-fig-align="center" />
 
 ``` r
 gc()
@@ -376,7 +370,7 @@ for(i in 6:nlyr(vi2_control2425)){
 gc()
 ```
 
-![](images/clipboard-2648508605.png)
+<img src="figures/vi_nocontrol2425.png" data-fig-align="center" />
 
 **Segmentation of plants and soil using a Vegetation Index (VI) - Jab
 (UNESP Jaboticabal, SP) – with insecticide control**
@@ -394,7 +388,7 @@ for(i in 5:nlyr(vi_jab2425)){
 gc()
 ```
 
-![](images/clipboard-3964478396.png)
+<img src="figures/vi_jab2425.png" data-fig-align="center" />
 
 ``` r
 gc()
@@ -428,7 +422,7 @@ for(i in 6:nlyr(vi2_jab2425)){
 gc()
 ```
 
-![](images/clipboard-950749304.png)
+![](figures/vi2_jab2425.png)
 
 **Threshold of the best VI selected in the previous step**
 
@@ -454,15 +448,15 @@ gc()
 
 nocontrol2425SI
 
-![](images/clipboard-856122192.png)
+<img src="figures/nocontrol2425SI$mask.png" data-fig-align="center" />
 
 control2425SI
 
-![](images/clipboard-2961286432.png)
+<img src="figures/control2425SI$mask.png" data-fig-align="center" />
 
 jab2425GLI
 
-![](images/clipboard-3284314602.png)
+![](figures/jab2425GLI$mask.png)
 
 **RGB VIs**
 
@@ -764,7 +758,7 @@ nocontrol2425SI_view = fieldView(mosaic = nocontrol2425SI$newMosaic,
           alpha_grid = 0.6)
 ```
 
-![](images/clipboard-1879202122.png)
+<img src="figures/nocontrol2425_view.png" data-fig-align="center" />
 
 ``` r
 gc()
@@ -776,7 +770,7 @@ fieldView(mosaic = control2425SI$newMosaic,
           alpha_grid = 0.6)
 ```
 
-![](images/clipboard-3094868229.png)
+<img src="figures/control2425SI.png" data-fig-align="center" />
 
 ``` r
 gc()
@@ -788,7 +782,7 @@ fieldView(mosaic = jab2425GLI$newMosaic,
           alpha_grid = 0.6)
 ```
 
-![](images/clipboard-2489653701.png)
+<img src="figures/jabGLI.png" data-fig-align="center" />
 
 **Importing the joint dataset (ANC + AC + Jab)**
 

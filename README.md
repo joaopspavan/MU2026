@@ -38,7 +38,7 @@ Paulo)
 
 # **Introduction**
 
-## ![](images/clipboard-3843728454.png)
+![](images/clipboard-3226717664.png)
 
 # Objective
 
@@ -75,10 +75,9 @@ Paulo)
 
 - WebODM: Build Orthomosaics
 
-<img src="images/clipboard-3911231886.png" width="800" />
+![](images/clipboard-3685034479.png)
 
-<img src="images/clipboard-649277334.png" data-fig-align="center"
-width="1929" />
+![](images/clipboard-330311638.png)
 
 - FieldImageR and FieldImageRExtra Packages: Create a grid (Shapefile),
   Segmentation (Plots) and Extract RGB VIs
@@ -151,7 +150,7 @@ library(ggplot2)
 library(asreml)
 ```
 
-    Online License checked out Sat Mar 14 15:58:37 2026
+    Online License checked out Sat Mar 14 16:06:17 2026
 
 ``` r
 library(metan)

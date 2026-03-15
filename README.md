@@ -77,12 +77,14 @@ Season 2024/2025 (November/December - March/April)
 
 - WebODM: Build Orthomosaics
 
-  - AC (Anhumas, Piracicaba, SP) – 97 Days after Sow -DAS (18/03/2025)l;
+  - AC (Anhumas, Piracicaba, SP, Brazil) – 97 Days after Sow -DAS
+    (18/03/2025)l;
 
-  - AN/C (Anhumas, Piracicaba, SP) – 97 Days after Sow -DAS
+  - AN/C (Anhumas, Piracicaba, SP, Brazil) – 97 Days after Sow -DAS
     (18/03/2025);
 
-  - Jab (UNESP Jaboticabal, SP) – 97 Days after Sow -DAS (25/02/2025)
+  - Jab (UNESP Jaboticabal, SP, Brazil) – 97 Days after Sow -DAS
+    (25/02/2025)
 
 <img src="figures/mm.png" data-fig-align="center" />
 

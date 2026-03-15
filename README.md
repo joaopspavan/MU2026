@@ -1,7 +1,7 @@
 # High-Throughput UAV Phenotyping for Soybean Resistance to Stink Bug
 Complex in Brazil
 João Paulo Silva Pavan
-2026-03-14
+2026-03-15
 
 # [2026 Soybean Symposium](https://soybeancenter.missouri.edu/symposium/)
 
@@ -50,13 +50,13 @@ Paulo)
 
 ## Trials:
 
-Season 2024/2025 (December - April)
+Season 2024/2025 (November/December - March/April)
 
-- AC (Anhumas, Piracicaba, SP) – with insecticide control;
+- AC (Anhumas, Piracicaba, SP, Brazil) – with insecticide control
 
-- AN/C (Anhumas, Piracicaba, SP) – without insecticide control;
+- AN/C (Anhumas, Piracicaba, SP, Brazil) – without insecticide control
 
-- Jab (UNESP Jaboticabal, SP) – with insecticide control
+- Jab (UNESP Jaboticabal, SP, Brazil) – with insecticide control
 
 ### Experimental Design
 
@@ -68,7 +68,7 @@ Season 2024/2025 (December - April)
 
 ## High-throughtput Phenotyping
 
-- ± 12h;
+- ± 12 a.m.;
 
 - DJI Mavic Air 2 Sensor RGB 1/2.0” CMOS 48-MP
 
@@ -77,11 +77,17 @@ Season 2024/2025 (December - April)
 
 - WebODM: Build Orthomosaics
 
+  - AC (Anhumas, Piracicaba, SP) – 97 Days after Sow -DAS (18/03/2025)l;
+
+  - AN/C (Anhumas, Piracicaba, SP) – 97 Days after Sow -DAS
+    (18/03/2025);
+
+  - Jab (UNESP Jaboticabal, SP) – 97 Days after Sow -DAS (25/02/2025)
+
 <img src="figures/mm.png" data-fig-align="center" />
 
 <img src="figures/mm1.png" data-fig-align="center" />
 
-- DAS: Days after sow
 - FieldImageR and FieldImageRExtra Packages: Create a grid (Shapefile),
   Segmentation (Plots) and Extract RGB VIs
 
@@ -107,15 +113,17 @@ Metan Package:
 
 1.  Mixed Models
 
-2.  LRT
+2.  Likelihood-Ratio Test (LRT)
 
 3.  Significant traits
 
-4.  Genotypic values (BLUEs)
+4.  Genotypic values (Best Linear Unbiased Estimator - BLUE)
 
-5.  Pearson’s correlation → PCA
+5.  Pearson’s correlation
 
-6.  Linear Regression
+6.  Principal Component Analysis (PCA)
+
+7.  Linear Regression
 
 # Results
 

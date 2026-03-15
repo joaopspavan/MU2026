@@ -81,6 +81,7 @@ Season 2024/2025 (December - April)
 
 <img src="figures/mm1.png" data-fig-align="center" />
 
+- DAS: Days after sow
 - FieldImageR and FieldImageRExtra Packages: Create a grid (Shapefile),
   Segmentation (Plots) and Extract RGB VIs
 

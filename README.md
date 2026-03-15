@@ -10,16 +10,15 @@ João Paulo Silva Pavan
 - **Where:** University of Missouri, Columbia, MO, Memorial Union North
   201ABC
 
-- **What:** The symposium will bring together researchers and
-  stakeholders across the soybean value chain to network, present
-  research findings, and promote interdisciplinary collaborations. It
-  will feature four leading experts in the areas of soybean molecular
-  genetics, weed science, food science, and soybean breeding.
-  Participants also have the opportunity to volunteer poster
-  presentations and discuss their work during a poster session which
-  will be coupled with a reception. This free symposium is open to
-  researchers, students, industry, farmers, and other stakeholders
-  interested in soybean.
+- **What:** The symposium brought together researchers and stakeholders
+  across the soybean value chain to network, present research findings,
+  and promote interdisciplinary collaborations. It featured four leading
+  experts in the areas of soybean molecular genetics, weed science, food
+  science, and soybean breeding. Participants also had the opportunity
+  to volunteer poster presentations and discuss their work during a
+  poster session which will be coupled with a reception. This free
+  symposium was open to researchers, students, industry, farmers, and
+  other stakeholders interested in soybean.
 
 # <u>Poster Presentation, Competition and Reception:</u>
 
@@ -1461,7 +1460,7 @@ citation("FIELDimageR")
 PROGRAM](https://sites.google.com/view/soymizzoufdreec/home)
 
 [Department of Genetics](http://www.genetica.esalq.usp.br/en/) - [Luiz
-de Queiroz College of Agriculture](https://en.esalq.usp.br/) (ESALQ/USP)
+de Queiroz College of Agriculture (ESALQ/USP)](https://en.esalq.usp.br/)
 
 [Laboratory of Genetic Diversity and
 Breeding](https://www.linkedin.com/in/laborat%C3%B3rio-de-diversidade-gen%C3%A9tica-e-melhoramento-9a84633b3/)

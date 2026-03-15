@@ -50,9 +50,11 @@ Paulo)
 
 ## Trials:
 
+Season 2024/2025 (December - April)
+
 - AC (Anhumas, Piracicaba, SP) – with insecticide control;
 
-- ANC (Anhumas, Piracicaba, SP) – without insecticide control;
+- AN/C (Anhumas, Piracicaba, SP) – without insecticide control;
 
 - Jab (UNESP Jaboticabal, SP) – with insecticide control
 
@@ -1463,3 +1465,8 @@ Breeding](https://www.linkedin.com/in/laborat%C3%B3rio-de-diversidade-gen%C3%A9t
 [js56k@missouri.edu](js56k@missouri.edu)
 
 [LinkedIn](https://www.linkedin.com/in/joaopaulosilvapavan/)
+
+Poster Presented:
+
+<img src="figures/NAPPN_2026_Bugs_HTP_JoãoPauloSilvaPavan.png"
+data-fig-align="center" />

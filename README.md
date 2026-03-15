@@ -25,7 +25,7 @@ João Paulo Silva Pavan
 
 # High-Throughput UAV Phenotyping for Soybean Resistance to Stink Bug Complex in Brazil
 
-João Paulo Silva Pavan¹², Maiara de Oliveira1, Francia Ravelombola¹,
+João Paulo Silva Pavan¹², Maiara de Oliveira¹, Francia Ravelombola¹,
 Cheryl Adeva¹, Jéssica Argenta¹, José Tiago Barroso Chagas², Maurício
 dos Santos Araújo ² , Gérson do Nascimento Costa Ferreira ², Destiny
 Hunt¹, José Baldin Pinheiro², Feng Lin¹
